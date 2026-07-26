@@ -5,7 +5,7 @@
 
 [Haisheng Su](https://scholar.google.com.hk/citations?user=OFrMZh8AAAAJ&hl=zh-CN)<sup>1,2</sup>,  [Wei Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=9RBxtd8AAAAJ)<sup>2</sup>, Zhenjie Yang<sup>1</sup>, Isabel Guan<sup>3 :email:</sup>
 
-<sup>1</sup> School of AI and Department of CSE, SJTU, <sup>2</sup> SenseAuto, <sup>3</sup> The Hong Kong University of Science and Technology![Uploading image.png…]()
+<sup>1</sup> School of AI and Department of CSE, SJTU, <sup>2</sup> SenseAuto, <sup>3</sup> The Hong Kong University of Science and Technology
 
 
 :email:: Corresponding author

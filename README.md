@@ -3,7 +3,7 @@
 <h1>EgoFSD</h1>
 <h3>Ego-Centric Fully Sparse Paradigm with Uncertainty Denoising and Iterative Refinement for Efficient End-to-End Self-Driving</h3>
 
-[Haisheng Su](https://scholar.google.com.hk/citations?user=OFrMZh8AAAAJ&hl=zh-CN)<sup>1,2</sup>,  [Wei Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=9RBxtd8AAAAJ)<sup>2</sup>, [Zhenjie Yang](https://scholar.google.com/citations?user=jVlRiUEAAAAJ&hl=en)<sup>1</sup>, [Isabel Guan](https://scholar.google.com/citations?hl=en&user=o192kNUAAAAJ)<sup>3 :email:</sup>
+[Haisheng Su](https://scholar.google.com.hk/citations?user=OFrMZh8AAAAJ&hl=zh-CN)<sup>1</sup>,  [Wei Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=9RBxtd8AAAAJ)<sup>2</sup>, [Zhenjie Yang](https://scholar.google.com/citations?user=jVlRiUEAAAAJ&hl=en)<sup>1</sup>, [Isabel Guan](https://scholar.google.com/citations?hl=en&user=o192kNUAAAAJ)<sup>3 :email:</sup>
 
 <sup>1</sup> School of Computer Science, SJTU, <sup>2</sup> SenseAuto, <sup>3</sup> The Hong Kong University of Science and Technology
 

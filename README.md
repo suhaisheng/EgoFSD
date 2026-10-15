@@ -11,13 +11,13 @@
 :email:: Corresponding author
 
 [![Paper](https://img.shields.io/badge/cs.CV-2409.09777-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2409.09777)
-[![Poster](https://img.shields.io/badge/ICRA%202026-Poster-blue)](assets/icra2026_egofsd_poster.pdf)
+[![Poster](https://img.shields.io/badge/ICRA%202026-Poster-blue)](assets/icra2026_egofsd_poster.pdf?raw=1)
 
 </div>
 
 
 ## News
-* **`Mar. 1st, 2026`:** EgoFSD has been accepted by ICRA 2026! 🎉 Check out our [poster](assets/icra2026_egofsd_poster.pdf).
+* **`Mar. 1st, 2026`:** EgoFSD has been accepted by ICRA 2026! 🎉 Check out our [poster](assets/icra2026_egofsd_poster.pdf?raw=1).
 * **` Sep. 9th, 2024`:** We released our paper on [Arxiv](https://arxiv.org/abs/2409.09777). Code/Models  are coming soon. Please stay tuned! ☕️
 
 

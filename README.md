@@ -18,7 +18,7 @@
 
 ## News
 * **`Mar. 1st, 2026`:** EgoFSD has been accepted by ICRA 2026! 🎉 Check out our [poster](assets/icra2026_egofsd_poster.pdf?raw=1).
-* **` Sep. 9th, 2024`:** We released our paper on [Arxiv](https://arxiv.org/abs/2409.09777). Code/Models  are coming soon. Please stay tuned! ☕️
+* **`Sep. 9th, 2024`:** We released our paper on [Arxiv](https://arxiv.org/abs/2409.09777). Code/Models  are coming soon. Please stay tuned! ☕️
 
 
 
@@ -55,8 +55,9 @@ Current end-to-end autonomous driving methods resort to unifying modular designs
 
 ## Qualitative Visualization
 <div align="center">
-<img src="assets/visualization.png" width="600"/>
+<img src="assets/visualization.png" width="550"/>
 </div>
+
 
 ## Getting Started
 TBD
